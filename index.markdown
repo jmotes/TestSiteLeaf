@@ -5,7 +5,6 @@ Slider:
 - Image: 
   Title: 
   Description: 
-  Position: 
 - Image: 
   Title: 
   Description: 
