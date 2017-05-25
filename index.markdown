@@ -5,6 +5,10 @@ Slider:
 - Image: 
   Title: 
   Description: 
+  Position: 
+- Image: 
+  Title: 
+  Description: 
 ---
 
 This is the homepage. How do you like it?
